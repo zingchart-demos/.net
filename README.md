@@ -1,6 +1,6 @@
 # ASP.NET > MVC
 
-This demo provides you with the code to get your ASP.NET MVC application up and running with ZingChart!
+This demo provides you with the code to get your ASP.NET MVC application up and running with ZingChart using C#!
 
 ### Usage
 - Open Controller/HomeController.cs to see how we are going to format the data on the server side.
